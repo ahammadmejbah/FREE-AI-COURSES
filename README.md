@@ -5,7 +5,7 @@
 <ol>
 <li><a href="https://www.edx.org/course/artificial-intelligence-ai">EdX’s Artificial Intelligence</a></li>
 <li><a href="https://www.udacity.com/course/intro-to-artificial-intelligence--cs271">Udacity’s Intro to Artificial Intelligence</a></li>
-<li><a href="http://web.stanford.edu/class/cs221/"></a>Artificial Intelligence: Principles and Techniques By Stanford</li>
+<li><a href="http://web.stanford.edu/class/cs221/">Artificial Intelligence: Principles and Techniques By Stanford</a></li>
 <li><a href="https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373">Udacity’s Artificial Intelligence for Robotics by Georgia Tech</a></li>
 <li><a href="https://cognitiveclass.ai/">IBM's Data Science and Cognitive Computing courses</a></li>
 <li><a href="https://www.elementsofai.com/">Elements of AI</a></li>
